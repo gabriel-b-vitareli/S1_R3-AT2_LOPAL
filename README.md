@@ -6,17 +6,17 @@ Documentação dos 11 exercícios da atividade **S1_R3**, escritos em Python e e
 
 ## Índice
 
-1. [Pares e Ímpares](#1-pares-e-ímpares)
-2. [Maior e Menor](#2-maior-e-menor)
-3. [Letras do Nome](#3-letras-do-nome)
-4. [Sequência de Fibonacci](#4-sequência-de-fibonacci)
-5. [Validação de Dados](#5-validação-de-dados)
-6. [Número Primo](#6-número-primo)
-7. [Fatorial](#7-fatorial)
-8. [Operações com Lista](#8-operações-com-lista)
-9. [Cardápio com Dicionário](#9-cardápio-com-dicionário)
-10. [Sistema de Senha](#10-sistema-de-senha)
-11. [Tabuada](#11-tabuada)
+1. [Pares e Ímpares](#1-pares-e-ímpares) - [Arquivo](https://github.com/gabriel-b-vitareli/S1_R3-AT2_LOPAL/blob/main/exercicio-1.py)
+2. [Maior e Menor](#2-maior-e-menor) - [Arquivo](https://github.com/gabriel-b-vitareli/S1_R3-AT2_LOPAL/blob/main/exercicio-2.py)
+3. [Letras do Nome](#3-letras-do-nome) - [Arquivo](https://github.com/gabriel-b-vitareli/S1_R3-AT2_LOPAL/blob/main/exercicio-3.py)
+4. [Sequência de Fibonacci](#4-sequência-de-fibonacci) - [Arquivo](https://github.com/gabriel-b-vitareli/S1_R3-AT2_LOPAL/blob/main/exercicio-4.py)
+5. [Validação de Dados](#5-validação-de-dados) - [Arquivo](https://github.com/gabriel-b-vitareli/S1_R3-AT2_LOPAL/blob/main/exercicio-5.py)
+6. [Número Primo](#6-número-primo) - [Arquivo](https://github.com/gabriel-b-vitareli/S1_R3-AT2_LOPAL/blob/main/exercicio-6.py)
+7. [Fatorial](#7-fatorial) - [Arquivo](https://github.com/gabriel-b-vitareli/S1_R3-AT2_LOPAL/blob/main/exercicio-7.py)
+8. [Operações com Lista](#8-operações-com-lista) - [Arquivo](https://github.com/gabriel-b-vitareli/S1_R3-AT2_LOPAL/blob/main/exercicio-8.py)
+9. [Cardápio com Dicionário](#9-cardápio-com-dicionário) - [Arquivo](https://github.com/gabriel-b-vitareli/S1_R3-AT2_LOPAL/blob/main/exercicio-9.py)
+10. [Sistema de Senha](#10-sistema-de-senha) - [Arquivo](https://github.com/gabriel-b-vitareli/S1_R3-AT2_LOPAL/blob/main/exercicio-10.py)
+11. [Tabuada](#11-tabuada) - [Arquivo](https://github.com/gabriel-b-vitareli/S1_R3-AT2_LOPAL/blob/main/exercicio-11.py)
 
 ---
 
