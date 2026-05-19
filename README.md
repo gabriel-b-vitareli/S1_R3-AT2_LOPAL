@@ -247,4 +247,5 @@ print("-"*55)
 ---
 
 *S1_R3 · AT2_LOPAL · Lógica de Programação em Python*
+
 *OBS: A explicação foi feita manualmente, a estilização do README com Markdown foi feito com assistência de IA*
